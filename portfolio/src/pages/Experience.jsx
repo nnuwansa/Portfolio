@@ -188,7 +188,7 @@ import { Container, Row, Col, Card, Badge } from "react-bootstrap";
 function Experience() {
   const experiences = [
     {
-      period: "JUN 2025 – DEC 2025",
+      period: "JUN 2025 – MAY 2025",
       title: "Software Engineering Intern - Full Time ",
       company: "Sri Lanka Telecom (SLT), Head Office - Colombo",
       description:
@@ -206,7 +206,7 @@ function Experience() {
       ],
     },
     {
-      period: "AUG 2025 – DEC 2025",
+      period: "AUG 2025 – PRESENT",
       title: "Software Developer - Part Time ",
       company: "Department of Cooperative Development - Central Province",
       description:
