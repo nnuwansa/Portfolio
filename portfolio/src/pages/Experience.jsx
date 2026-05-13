@@ -189,7 +189,7 @@ function Experience() {
   const experiences = [
     {
       period: "JUN 2025 – DEC 2025",
-      title: "Software Engineering Intern - Full Time (06 Months)",
+      title: "Software Engineering Intern - Full Time ",
       company: "Sri Lanka Telecom (SLT), Head Office - Colombo",
       description:
         "Assisted in developing a document tracking system that improved workflow efficiency within the CEO's office, while also contributing to the creation of internal web applications that enhanced overall operational processes. Additionally, gained hands-on exposure to industry-standard tools, technologies, and best practices used in enterprise-level software development.",
@@ -207,7 +207,7 @@ function Experience() {
     },
     {
       period: "AUG 2025 – DEC 2025",
-      title: "Software Developer - Part Time (05 Months)",
+      title: "Software Developer - Part Time ",
       company: "Department of Cooperative Development - Central Province",
       description:
         "Designed and developed web applications to streamline administrative processes within the government sector, while also supporting ongoing software solutions aimed at enhancing departmental efficiency and improving overall digital workflows.",
